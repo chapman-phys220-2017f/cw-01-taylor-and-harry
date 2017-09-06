@@ -1,6 +1,6 @@
 # PHYS220 CW 1
 
-**Author(s):** _\<your name(s)\>_
+**Author(s):** Harry and Taylor
 
 ## Specification
 
@@ -27,4 +27,4 @@ I pledge that all the work in this repository is our own with only the following
 
 Signed,
 
-**YOURNAME**
+Harry and Taylor
